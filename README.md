@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm YangBo Huang. 👋
 
-<!--
-**Alicia24012867/Alicia24012867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student interested in high-performance computing, 
+scientific computing, and machine learning.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- High-Performance Computing (HPC)
+- Scientific Computing
+- Numerical Methods
+- Machine Learning Systems
+- AI Infrastructure
+
+## Technical Interests
+
+- C / C++
+- CUDA
+- Python
+- Parallel Computing
+- Numerical Simulation
+
+## Current Focus
+
+I am currently exploring high-performance numerical computing,
+GPU programming, and machine learning systems.
+
+## Contact
+
+- Email: hyb24@mails.tsinghua.edu.cn
+- GitHub: @Alicia24012867
