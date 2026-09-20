@@ -1,30 +1,12 @@
-# Hi, I'm YangBo Huang. 👋
+## Hi there!
 
-I am a student interested in high-performance computing, 
-scientific computing, and machine learning.
+I'm Alicia, currently an undergraduate student interested in numerical analysis/computing and parallel computing
 
-## Research Interests
+Here is my [personal website](https://nymphilia.com).
 
-- High-Performance Computing (HPC)
-- Scientific Computing
-- Numerical Methods
-- Machine Learning Systems
-- AI Infrastructure
-
-## Technical Interests
-
-- C / C++
-- CUDA
-- Python
-- Parallel Computing
-- Numerical Simulation
-
-## Current Focus
-
-I am currently exploring high-performance numerical computing,
-GPU programming, and machine learning systems.
-
-## Contact
-
-- Email: hyb24@mails.tsinghua.edu.cn
-- GitHub: @Alicia24012867
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=140 align="center" src="https://github-readme-stats-kinnari.vercel.app/api?username=Rrmeazh&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=140 align="center" src="https://github-readme-stats-kinnari.vercel.app/api/top-langs?username=Rrmeazh&layout=compact&langs_count=6&card_width=320&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
